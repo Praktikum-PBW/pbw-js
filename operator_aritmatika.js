@@ -1,0 +1,12 @@
+let results = 9 + 10;
+console.log(results);
+results = 15 - 10;
+console.log(results);
+results = 9 * 5;
+console.log(results);
+results = 18 / 2;
+console.log(results);
+results = 28 % 3;
+console.log(results);
+results = 10 + 15 * 2 / 2;
+console.log(results);
