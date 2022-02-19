@@ -1,0 +1,11 @@
+let bool;
+bool = true && false;
+console.log(bool);
+bool = false || true;
+console.log(bool);
+bool = !false;
+console.log(bool);
+bool = true || true || false;
+console.log(bool);
+bool = true && false || true;
+console.log(bool);
