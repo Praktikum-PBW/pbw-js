@@ -1,0 +1,12 @@
+let results = 18 < 2;
+console.log(results);
+results = 10 > 3;
+console.log(results);
+results = 5 >= 10;
+console.log(results);
+results = 16 <= 4;
+console.log(results);
+results = 19 == 10;
+console.log(results);
+results = 20 === 20;
+console.log(results);
