@@ -1,0 +1,10 @@
+let firstName, lastName, fullName;
+firstName = "Budi";
+lastName = "Setiawan";
+fullName = firstName + " " + lastName;
+console.log(fullName);
+console.log("Halo, my name is " + fullName);
+let students = ["Reni Mulyasari", "Kevin Alam", "Putri Nabila", "Rudi Widodo"];
+console.log(students[0] + " dan " + students[2] + " merupakan teman dekat");
+let exam = students[3] + " mendapatkan nilai " + 9 * 9;
+console.log(exam);
